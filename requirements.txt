@@ -1,2 +1,3 @@
 fastAPI==0.116.1
 pytest==8.4.1
+pytest_playwright
