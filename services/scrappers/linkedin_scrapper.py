@@ -1,4 +1,4 @@
-from base_scrapper import BaseScraper
+from services.base_scrapper import BaseScraper
 import time
 
 class linkedin_scrapper(BaseScraper):
